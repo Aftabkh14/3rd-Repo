@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+
+                <report
+                    id="psl_home_report_action_id"
+                    model="psl.tbl"
+                    report_type="qweb-pdf"
+                    string="PSL print"
+                    name="psl_module_report.psl_home_report_temp_id"
+                    file="psl_module_report.psl_home_report_temp_id"/>
+    </data>
+</odoo>
